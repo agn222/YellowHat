@@ -2,6 +2,7 @@
   <a href="https://github.com/CommunityOfCoders/Inheritance-2024">
     <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
     <br>
+    <br>
      <img src="Trystyle/app/static/app/images/logo.jpg" width = "300" height = "100>
   </a>
   <br>
