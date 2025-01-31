@@ -1,0 +1,104 @@
+{% extends 'app/base.html' %}
+{% load static %}
+{% block title %}Product Detail{% endblock title %}
+{% block main-content %}
+<!DOCTYPE html>
+<html>
+<head>
+<title>Virtual Try-on</title>
+<style>
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+#user-input {
+  margin-bottom: 10px;
+}
+
+#output-container {
+  margin-top: 20px;
+}
+
+#output-image {
+  max-width: 400px;
+}
+</style>
+</head>
+<body>
+
+<h1>Virtual Try-on</h1>
+
+<div id="container">
+  <input type="file" id="user-input" accept="image/*">
+  <label for="user-input">Select User Image</label><br><br>
+
+  <button onclick="tryOn()">Try On</button>
+
+  <div id="output-container">
+    <img id="output-image" src="" alt="Try-on Result">
+  </div>
+</div>
+<div class="container my-5">
+    <div class="row">
+     <div class="col-sm-6 text-center align-self-center">
+     <img src="{{product.product_image.url}}" alt="" class="img-fluid img-thumbnail">
+    </div>
+<script>
+function tryOn() {
+  // Get the selected image file
+  const userFile = document.getElementById('user-input').files[0];
+
+  // Check if file is selected
+  if (!userFile) {
+    alert("Please select a user image.");
+    return;
+  }
+
+  // Create FileReader object
+  const userReader = new FileReader();
+
+
+  // Load user image
+  userReader.onload = function(e) {
+    const userImage = new Image();
+    userImage.onload = function() {
+      // **This is where your core try-on logic would go**
+      // 
+      // 1. **Get Product Image:**
+      //    - Fetch the product image from a server or a local source.
+      //    - Example: 
+      //      const productImage = new Image();
+      //      productImage.src = 'path/to/your/product/image.jpg';
+
+      // 2. **Image Processing:**
+      //    - Load images into canvas elements.
+      //    - Perform image manipulation (e.g., resizing, cropping, 
+      //      detecting user's face/body parts).
+      //    - Overlay the product image onto the user image.
+      //    - Apply transformations (e.g., perspective warping) 
+      //      to make the product appear realistic on the user.
+      //
+      // 3. **Display Output:**
+      //    - Draw the combined image onto a canvas.
+      //    - Convert the canvas to a data URL.
+      //    - Display the result in the output image element.
+
+      // Example: (Placeholder - Replace with your actual logic)
+      const outputImage = document.getElementById('output-image');
+      outputImage.src = 'path/to/your/processed/image.jpg'; 
+    };
+    userImage.src = e.target.result;
+  };
+  userReader.readAsDataURL(userFile);
+}
+</script>
+
+</body>
+</html>
+{% endblock main-content %}
