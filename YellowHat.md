@@ -3,7 +3,7 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
   </a>
   <br>
- Trystyle AI Tryon
+ <img src="logo.jpg" alt="CoC Inheritance 2024" width="500" height="166">
 </h1>
 
 <div align="center">
