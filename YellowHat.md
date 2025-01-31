@@ -35,6 +35,7 @@
 
 
 
+
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/)
@@ -112,14 +113,8 @@ Add names of your team members with their emails and links to their GitHub accou
 
 ## 👨‍🏫Mentors
 - [Bhargav Parab ](https://github.com/)
-
-
-
-Add names of your mentors with their emails and links to their GitHub accounts
-
-- [Bhargav Parab]()
-- [Sharan Poojari]()
-- [Shreyash]()
+- [Sharan Poojari](https://github.com/)
+- [Shreyash](https://github.com/)
 
 ## 📱Screenshots
 
