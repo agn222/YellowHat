@@ -115,8 +115,9 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Bhargav Parab]()):
-- [Mentor 2 ]():
+- [Bhargav Parab]()
+- [Sharan Poojari]():
+- [Shreyash]()
 
 ## 📱Screenshots
 
