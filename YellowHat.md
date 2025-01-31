@@ -68,13 +68,15 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 ## 📈Progress
 
 List down all the fully implemented features in your project
+- The wesite enables user to make his/her account by Sign Up feature and could login using username and password.
+- User can also add the required clothing items to the cart.
+- The Virtual Tryon for clothing
 
 
 
-List down all the partially implemented features in your project
 
 ## 🔮Future Scope
-E-commerce business use for Virtual Tryon base Size Recommendations
+Making Virtual-Tryon more optimized and maye be a 3D - Tryon
 
 ## 💸Applications
 
@@ -116,7 +118,7 @@ Add names of your team members with their emails and links to their GitHub accou
 Add names of your mentors with their emails and links to their GitHub accounts
 
 - [Bhargav Parab]()
-- [Sharan Poojari]():
+- [Sharan Poojari]()
 - [Shreyash]()
 
 ## 📱Screenshots
