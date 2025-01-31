@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2024">
     <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
+    <br>
      <img src="Trystyle/app/static/app/images/logo.jpg" width = "100" height = "100>
   </a>
   <br>
