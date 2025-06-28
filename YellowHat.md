@@ -32,7 +32,7 @@
 </details>
 
 ## 📝Description
-
+Trystyle is an e-commerce website which features a virtual tryon facility to enhance consumer experience 
 
 
 
@@ -107,9 +107,7 @@ git clone <url>
 Add names of your team members with their emails and links to their GitHub accounts
 
 - [Atharva Naik ](https://github.com/agn222)
-- [Team Member 2 ](https://github.com/)
-- [Team Member 2 ](https://github.com/)
-- [Team Member 2 ](https://github.com/)
+
 
 ## 👨‍🏫Mentors
 - [Bhargav Parab ](https://github.com/)
