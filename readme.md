@@ -1,7 +1,13 @@
 # 🛍️ Trystyle – AI-Powered Virtual Try-On E-commerce Website
 
 Welcome to **Trystyle**, a full-stack e-commerce platform with **AI Virtual Try-On technology**. Users can view clothing on models virtually before purchasing — bringing a real-life dressing room experience online.
+#### 🔹 Homepage
+![Homepage](assets/homepage.png)
 
+#### 🔸 Product Detail Page
+![Product Page](assets/product.png)
+
+---
 ### 👗 Virtual Try-On Results
 
 
@@ -12,15 +18,6 @@ Welcome to **Trystyle**, a full-stack e-commerce platform with **AI Virtual Try-
 ---
 
 ### 🛍️ Website Interface
-
-#### 🔹 Homepage
-![Homepage](assets/homepage.png)
-
-#### 🔸 Product Detail Page
-![Product Page](assets/product.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, Bootstrap
