@@ -4,11 +4,10 @@ Welcome to **Trystyle**, a full-stack e-commerce platform with **AI Virtual Try-
 
 ### 👗 Virtual Try-On Results
 
-| Selected Person | Selected Cloth | Predicted Try-On |
-|------------------|----------------|------------------|
-| ![](assets/person1.png) | ![](assets/cloth1.png) | ![](assets/output1.png) |
-| ![](assets/person2.png) | ![](assets/cloth2.png) | ![](assets/output2.png) |
-| ![](assets/person3.png) | ![](assets/cloth3.png) | ![](assets/output3.png) |
+
+ ![](assets/result1.jpeg)
+ ![](assets/result2.jpeg) 
+ ![](assets/result3.jpeg)
 
 ---
 
@@ -18,18 +17,7 @@ Welcome to **Trystyle**, a full-stack e-commerce platform with **AI Virtual Try-
 ![Homepage](assets/homepage.png)
 
 #### 🔸 Product Detail Page
-![Product Page](assets/product_detail.png)
-
----
-
-## 🚀 Features
-
-- 👕 Upload and Try-On garments virtually
-- 📷 AI-based clothing warping onto model images
-- 🛒 Fully functional product listing, cart & checkout
-- 📱 Responsive UI with modern design
-- 🔐 User authentication and admin dashboard
-- 🧠 Deep learning model integration for try-on
+![Product Page](assets/product.png)
 
 ---
 
